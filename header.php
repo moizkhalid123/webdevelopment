@@ -69,8 +69,8 @@
 					</div>
 				</div>
 				<div class="modal-footer">
-					<button class="btn btn-success">Submit</button>
-					<button class="btn btn-danger"data-dismiss="modal">Close</button>
+					<button class="btn btn-dark btn1">Submit</button>
+					<button class="btn btn-dark btn1"data-dismiss="modal">Close</button>
 				</div>		
 			</div>
 		</div>
@@ -100,8 +100,8 @@
 					</div>
 				</div>
 				<div class="modal-footer">
-					<button class="btn btn-success">Submit</button>
-					<button class="btn btn-danger"data-dismiss="modal">Close</button>
+					<button class="btn btn-dark btn1">Submit</button>
+					<button class="btn btn-dark btn1"data-dismiss="modal">Close</button>
 				</div>		
 			</div>
 		</div>
